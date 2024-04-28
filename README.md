@@ -7,5 +7,5 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 - [Kevin Martínez](https://github.com/Al3xMR)
 - []()
 - []()
-- [David Calahorrano](https://github.com/DevTDavicho)
+- [David Calahorrano ](https://github.com/DevTDavicho)
 - []()
