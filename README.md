@@ -8,4 +8,4 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 - [Gabriela Salazar](https://github.com/GabiSalazar)
 - []()
 - []()
-- []()
+- [Jostin Vega](https://github.com/JostinVega)
