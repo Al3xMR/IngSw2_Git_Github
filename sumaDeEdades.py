@@ -1,5 +1,8 @@
 Kevin = 21
 
 
-Edades = Kevin
+
+Jostin = 21
+
+Edades = Kevin + Jostin
 print(Edades)
