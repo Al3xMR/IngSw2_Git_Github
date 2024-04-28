@@ -5,7 +5,7 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 ## Autores
 
 - [Kevin Martínez](https://github.com/Al3xMR)
-- []()
+- [Gabriela Salazar](https://github.com/GabiSalazar)
 - []()
 - []()
 - []()
