@@ -1,5 +1,5 @@
 Kevin = 21
+Gabi = 24
 
-
-Edades = Kevin
+Edades = Kevin + Gabi
 print(Edades)
