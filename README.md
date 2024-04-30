@@ -3,8 +3,4 @@
 Este es un repositorio para la materia de Ingeniería de Software II, durante el periodo 2024-A, en la [Escuela Politécnica Nacional](https://www.epn.edu.ec).
 
 ## Autores
-- Kevin Martinez
-- Gabriela Salazar
-- Jostin Vega
-- Vickiann Jiménez
-- David Calahorrano
+
