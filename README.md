@@ -4,3 +4,4 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 
 ## Autores
 - Kevin Martinez
+- Vickiann Jiménez
