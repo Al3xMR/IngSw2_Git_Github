@@ -6,4 +6,5 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 - Gabriela Salazar
 David Calahorrano
 -Vickiann Jiménez
+- Jostin Vega
 
