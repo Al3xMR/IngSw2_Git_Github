@@ -4,7 +4,7 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 
 ## Autores
 - Gabriela Salazar
-David Calahorrano
--Vickiann Jiménez
+- David Calahorrano
+- Vickiann Jiménez
 - Jostin Vega
 
